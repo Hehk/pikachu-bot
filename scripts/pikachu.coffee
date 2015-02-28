@@ -25,7 +25,7 @@ contactInfo = [
     email: 'deshpata@mail.uc.edu',
     phone: '(513) 223-1671'
   }, {
-    name: 'Garret',
+    name: 'Garrett',
     email: 'scholtgt@mail.uc.edu',
     phone: '(513) 869-0719'
   }, {
